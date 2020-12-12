@@ -33,6 +33,7 @@ p{
 }
 a{
     margin: auto;
+    display: block;
 }
 h3{
     margin-top: 10px;
